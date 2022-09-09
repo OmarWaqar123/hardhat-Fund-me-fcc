@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+TESTS README.md 
+README2.md
+deployments
+
+#Hardhat files
+cache
+artifacts
+
